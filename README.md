@@ -1,4 +1,4 @@
 # webbusiness
 Personal Business Website
 
-Custom Solutions for Businesses in Jamaica
+Custom Solutions for Small Businesses in Jamaica
